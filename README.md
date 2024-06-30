@@ -1,4 +1,4 @@
-#Invoice Parser
+# Invoice Parser
 
 Invoice Parser is a Python-based pdf mining tool specifically structured to extract pieces of data within pdf files and use those to accomplish various needs.
 It utilizes tkinter GUI widgets to make the program easy to work with for users not familiar with a console.
