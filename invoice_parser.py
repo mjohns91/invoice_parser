@@ -2,7 +2,6 @@ import pdfquery
 import re
 import shutil
 import os
-import time
 import tkinter as tk
 
 from tkinter import filedialog
