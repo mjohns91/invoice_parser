@@ -7,7 +7,6 @@ This tool was made specifically to automate a laborious process in my capacity a
 ## Current Usage
 
 The most current version of the parser specifically copies and renames every pdf based on invoice dates and invoice numbers, eliminating the need to do this manually. It currently does NOT implement deletion of files.
-Currently, Invoice Parser does not utilize classes due to its small size, but future iterations may require more structure.
 
 ## License
 
